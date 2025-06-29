@@ -3,7 +3,7 @@
     <title lang="EN">Mein Plugin-Repo</title>
   </details>
   <plugins>
-    <plugin name="twitch2lms" version="1.0" minTarget="7.7" maxTarget="*">
+    <plugin name="TwitchAudioStream" version="1.0" minTarget="7.7" maxTarget="*">
       <title lang="EN">Twitch Audio Stream</title>
       <desc lang="EN">Audio-only Twitch Streaming Plugin for LMS</desc>
       <creator>bungh0l10</creator>
