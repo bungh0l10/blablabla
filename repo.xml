@@ -7,7 +7,7 @@
       <title lang="EN">Twitch Audio Stream</title>
       <desc lang="EN">Audio-only Twitch Streaming Plugin for LMS</desc>
       <creator>bungh0l10</creator>
-      <url>https://github.com/bungh0l10/blablabla/blob/main/TwitchAudioStream.zip</url>
+      <url>https://github.com/bungh0l10/blablabla/raw/refs/heads/main/TwitchAudioStream.zip</url>
       <sha>46c3a22c283a666fd83efcfc2fd69e059be52dce</sha>
     </plugin>
   </plugins>
