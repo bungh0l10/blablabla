@@ -1,3 +1,4 @@
+<?xml version='1.0' standalone='yes'?>
 <extensions>
   <details>
     <title lang="EN">Mein Plugin-Repo</title>
@@ -5,8 +6,10 @@
   <plugins>
     <plugin name="TwitchAudioStream" version="1.0" minTarget="7.7" maxTarget="*">
       <title lang="EN">Twitch Audio Stream</title>
+      <category>musicservices</category>
       <desc lang="EN">Audio-only Twitch Streaming Plugin for LMS</desc>
       <creator>bungh0l10</creator>
+      <icon>https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png</icon>
       <url>https://github.com/bungh0l10/blablabla/raw/refs/heads/main/TwitchAudioStream.zip</url>
       <sha>5ec84827c82ab565220eb1cc47463c1a045575cb</sha>
     </plugin>
