@@ -10,7 +10,7 @@
             <desc lang="EN">Audio-only Twitch Streaming Plugin for LMS</desc>
             <creator>bungh0l10</creator>
             <url>https://github.com/bungh0l10/blablabla/raw/refs/heads/main/Twitch.zip</url>
-            <sha>5fc588e054dc72638c566a78762983116662a996</sha>
+            <sha>59e41575729a0371fbdc85c59f4418570110a635</sha>
         </plugin>
     </plugins>
 </extensions>
