@@ -4,14 +4,13 @@
         <title lang="EN">Mein Plugin-Repo</title>
     </details>
     <plugins>
-        <plugin name="Twitch" version="1.0.1" minTarget="7.7" maxTarget="*">
+        <plugin name="Twitch" version="0.0.0.2" minTarget="7.7" maxTarget="*">
             <title lang="EN">Twitch</title>
             <category>musicservices</category>
             <desc lang="EN">Audio-only Twitch Streaming Plugin for LMS</desc>
             <creator>bungh0l10</creator>
-            <icon>https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png</icon>
             <url>https://github.com/bungh0l10/blablabla/raw/refs/heads/main/Twitch.zip</url>
-            <sha>f5cb983e17f39f2cf3181ef8250e9adadacf6562</sha>
+            <sha>a7adfa70a9059e996f12ab52680ed1bc8ffb7154</sha>
         </plugin>
     </plugins>
 </extensions>
