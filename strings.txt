@@ -1,0 +1,19 @@
+PLUGIN_TWITCH
+	DE	twitch2lms
+	EN	twitch2lms
+
+PLUGIN_TWITCH_DESCRIPTION
+	DE	Erweiterung, um auf twitch Inhalte zuzugreifen
+	EN	Plugin to listen to twitch streams
+
+PLUGIN_TWITCH_NO_PLAYER_CONNECTED
+	DE	Sie können sich ohne Player nicht mit twitch verbinden.
+	EN	Cannot access twitch services without a player connected.
+
+PLUGIN_TWITCH_OAUTH_TOKEN
+	DE	bla
+	EN	bla
+
+PLUGIN_TWITCH_OAUTH_TOKEN_DESCRIPTION
+	DE	bla
+	EN	bla
